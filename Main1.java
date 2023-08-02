@@ -14,6 +14,9 @@ public class Main1 {
                 System.out.printf("This cat:%s\twho scratched that number of cupboards:%d\n",name,number);
 
             }
+
+
+
         }
 
         }
